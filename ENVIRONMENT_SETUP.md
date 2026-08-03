@@ -36,5 +36,6 @@ This is the first step for all workshop attendees. Complete the prerequisites an
 1. In the Azure portal, search for *AI search*
 2. Create a resource following the same pattern.
 
-## Deploy Model in Microsoft Foundry Resource
+
+
 
