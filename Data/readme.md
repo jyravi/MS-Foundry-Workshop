@@ -1,1 +1,1 @@
-This folder contains the data for creating a RAG floe (Knowledge base)
+This folder contains the data for creating a RAG flow (Knowledge base)
