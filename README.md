@@ -7,4 +7,5 @@ Details on the Foundry workshop.
 - [Set Up](ENVIRONMENT_SETUP.md)
 ## Data 
  - Contains sample files for Knowledge base
+ - [File 1](Data/Northwind_Health_Plus_benefits.pdf)
    
