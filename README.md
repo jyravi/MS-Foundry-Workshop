@@ -6,4 +6,5 @@ Details on the Foundry workshop.
 - [Workshop Flow Breakdown](WORKSHOP_FLOW_BREAKDOWN.md)
 - [Set Up](ENVIRONMENT_SETUP.md)
 ## Data 
- - [Contains sample files for Knowledge base](Data) 
+ - Contains sample files for Knowledge base
+   
