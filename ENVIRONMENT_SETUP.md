@@ -38,19 +38,31 @@ This is the first step for all workshop attendees. Complete the prerequisites an
 1. In the Azure portal, search for *AI search*
 2. Create a resource following the same pattern. PS: Make sure the *pricing tier* is Basic.
 3. Enable the Sematic Ranker
+   
    a. From the left pane, select *Settings > Premium features*
+   
    b. Under *Semantic ranker*, Select plan in the *Standard card*.
 
-4. Configure Access
+5. Configure Access
+   
   a. Select *Settings* and then select *Keys* in the left pane.
+  
   b. choose *Both* (In your org, it is advisable to choose Role-based access control)
+  
   c. Next: select *Settings* -> *Identity*.
+  
   d. On the *System assigned* tab, under *Status*, select *On*.
+  
   e. Select *Save*.
-5. Assign Roles
+  
+7. Assign Roles
+   
   a. Click *Access control (IAM)*
+  
   b. Click the *Role assignments* tab to view the role assignments at this scope.
+  
   c. Click *Add > Add role assignment*.
+  
   d. Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the user. 
 
 
