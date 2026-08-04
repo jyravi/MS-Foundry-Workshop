@@ -7,5 +7,5 @@ Details on the Foundry workshop.
 - [Set Up](ENVIRONMENT_SETUP.md)
 ## Data 
  - Contains sample files for Knowledge base
- - [Northwind Health Plus Benefits Details](/jyravi/jyravi.github.io/blob/main/Data/Northwind_Health_Plus_Benefits_Details.pdf)
+ - [Northwind Health Plus Benefits Details](/Data/Northwind_Health_Plus_Benefits_Details.pdf)
    
