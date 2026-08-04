@@ -1,4 +1,4 @@
-# foundryworkshop.github.io
+# jyravi.github.io
 
 Details on the Foundry workshop.
 
