@@ -23,6 +23,7 @@ This is the first step for all workshop attendees. Complete the prerequisites an
 5. Create Resource
 
 ### Method 2
+
 1. Login to azure portal
 2. Search for *Microsoft Foundry* in the search bar and click on *Create Resource* in *Create a Foundry Resource*
 3. Select your subscription
@@ -33,8 +34,15 @@ This is the first step for all workshop attendees. Complete the prerequisites an
 8. Select *Review + Create*
 
 ## Create Azure AI Search
+
 1. In the Azure portal, search for *AI search*
-2. Create a resource following the same pattern.
+2. Create a resource following the same pattern. PS: Make sure the *pricing tier* is Basic.
+3. Enable the Sematic Ranker
+   a. From the left pane, select *Settings > Premium features*
+   b. Under *Semantic ranker*, Select plan in the *Standard card*.
+
+
+  
 
 
 
