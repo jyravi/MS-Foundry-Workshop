@@ -5,8 +5,6 @@ This document breaks down the Microsoft Foundry workshop flow for developers, ar
 ## Workshop Goal
 
 Enable a cross-functional team to:
-- identify a high-value business scenario
-- align on the agentic solution architecture
 - build a working application on Microsoft Foundry
 - validate the experience, security, and governance approach
 - deploy the solution with a clear path to scale
