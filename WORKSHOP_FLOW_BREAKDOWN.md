@@ -33,13 +33,15 @@ Deliverables:
 
 Focus areas:
  - Discover Models, Solution templates
- - Build Agents 
+ - Deploy Models - Different deployment options and Data Processing & Data Storage for each of these.
+ - Build Agents - Prompt Agents, Hosted Agents (Workshop Focus will be on prompt Agents)
+ - Finetuning models - Supervised, DPO, Reinforcement Learning
  - Track the operational metrics
  - Talk through Evaluation at different stages - starting from Model (Choice of models - Leaderboard & Compare)
 
 ## 3. Start building the agents 
 Focus areas:
-- agent instructions (System Prompts
+- agent instructions (System Prompts - Construct)
 - RAG concepts and Adding Knowledge base (Foundry IQ) - use the files
 - Add mcp tools - eg. web-search tool to compare different providers and compare. Or build another agents with MSLearn MCP tool for technical guidance.
 - Memory
@@ -60,7 +62,6 @@ Enable Voice and convert to Voice Bot
 Focus areas:
 - functional validation of the end-to-end flow
 - evaluation against business success metrics
-
 
 Deliverables:
 - validated demo path
