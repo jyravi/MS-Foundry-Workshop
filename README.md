@@ -3,7 +3,7 @@
 Details on the Foundry workshop.
 
 ## Documents
-- Access Azure Portal Please refer to Azure Portal-Access.pdf and follow the instructions.
+- Access Azure Portal Please refer to *"Azure Portal-Access.pdf"* and follow the instructions.
 - [Workshop Flow Breakdown](WORKSHOP_FLOW_BREAKDOWN.md)
 - [Set Up](ENVIRONMENT_SETUP.md)
 ## Data 
