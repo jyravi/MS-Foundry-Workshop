@@ -1,4 +1,4 @@
-# jyravi.github.io
+# MS-Foundry-Workshop
 
 Details on the Foundry workshop.
 
