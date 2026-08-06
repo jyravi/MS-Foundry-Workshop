@@ -14,13 +14,16 @@ This is the first step for all workshop attendees. Complete the prerequisites an
 
 ### Method 1
 
-1. Sign in to [Microsoft Foundry](https://ai.azure.com). Make sure the **New Foundry** toggle is on.
+1. Sign in to [Microsoft Foundry](https://ai.azure.com) "https://ai.azure.com". Make sure the **New Foundry** toggle is on.
 2. Create a project — select **Create New Project**.
 3. Enter a project name.
 4. Click on **Advanced Options**.
+   
    a. Resource group: Create a new resource group
+   
    b. Location: Select "Sweden Central"
-5. Create Resource
+   
+6. Create Resource
 
 ### Method 2
 
@@ -64,6 +67,8 @@ This is the first step for all workshop attendees. Complete the prerequisites an
   c. Click *Add > Add role assignment*.
   
   d. Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the user. 
+  e. Also Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the Foundry.
+  
 
 
 
