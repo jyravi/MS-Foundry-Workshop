@@ -21,6 +21,8 @@ Choose the radio button to select the model, another pane appears in the right-h
 
 ![Change TPMs](images/changetheTPMs.png)
 
+![Maximize TPMs](images/MaxTPM.png)
+
 5. Repeat the exercise for *text-embedding-3-small* model.
 
    
