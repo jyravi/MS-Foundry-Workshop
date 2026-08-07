@@ -98,7 +98,13 @@ As an example, shown below are the steps to add "Search Index Data Contributor".
 
      e. Add *Foundry User* or/and *Cognitive Service Contributor* to the managed identity of your Search Service 
 
-  
+      ![Foundry User](images/FoundryUser.png)
+
+      ![Select Search resource](AssignRoletoSearch.png)
+
+      ![Review and Assign](reviewandassignsearch.png)
+
+     
   
 
 
