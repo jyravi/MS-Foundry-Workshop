@@ -85,7 +85,8 @@ As an example, shown below are the steps to add "Search Index Data Contributor".
  
   Other Role assignments:
 
-  1. On your model provider (i.e. Foundry resource), assign Cognitive Services User to the managed identity of your search service.
+  1. On your model provider (i.e. Foundry resource), assign *Foundry User* or/and *Cognitive Services Contributor* to the managed identity of your search service.
+     
      a. Go to Foundry resource
 
      b. Click on the *Access Control IAM*.
@@ -94,7 +95,7 @@ As an example, shown below are the steps to add "Search Index Data Contributor".
 
      d. Click *Add > Add role assignment*.
 
-     e. Add *Cognitive Service Contributor* to the managed identity of your Search Service 
+     e. Add *Foundry User* or/and *Cognitive Service Contributor* to the managed identity of your Search Service 
 
   
   
