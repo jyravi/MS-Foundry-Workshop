@@ -60,16 +60,25 @@ This is the first step for all workshop attendees. Complete the prerequisites an
   
 7. Assign Roles
    
-  a. Click Access Control-IAM ![Access control-IAM](AzureSerach-IAM.png)
+  a. Click Access Control-IAM 
   
   b. Click the *Role assignments* tab to view the role assignments at this scope.
   
   c. Click *Add > Add role assignment*.
+
+   ![Access control-IAM](AzureSerach-IAM.png)
   
   d. Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the user. 
   e. Also Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the Foundry.
+  ![Search Index Data Contributor](Search Index Data Contributor.png)
+  
+  ![Foundry Resource](selectFoundryresource.png)
 
+ f. Review and Assign
 
+ ![Review and Assign](reviewandassign.png)
+
+ 
   Other Role assignments:
 
   1. On your model provider (i.e. Foundry resource), assign Cognitive Services User to the managed identity of your search service.
