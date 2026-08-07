@@ -66,21 +66,21 @@ This is the first step for all workshop attendees. Complete the prerequisites an
   
   c. Click *Add > Add role assignment*.
 
-   ![Access control-IAM](AzureSerach-IAM.png)
+   ![Access control-IAM](images/AzureSerach-IAM.png)
   
   d. Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the user. 
   e. Also Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the Foundry.
 
 As an example, shown below are the steps to add "Search Index Data Contributor". Please repeat the same for adding other roles as well.
   
-  ![Search Index Data Contributor](SearchIndexDataContributor.png)
+  ![Search Index Data Contributor](images/SearchIndexDataContributor.png)
   
   
-  ![Foundry Resource](selectFoundryresource.png)
+  ![Foundry Resource](images/selectFoundryresource.png)
 
  f. Review and Assign
 
- ![Review and Assign](reviewandassign.png)
+ ![Review and Assign](images/reviewandassign.png)
 
  
   Other Role assignments:
