@@ -94,6 +94,7 @@ As an example, shown below are the steps to add "Search Index Data Contributor".
      c. Click the *Role assignments* tab to view the role assignments at this scope.
 
      d. Click *Add > Add role assignment*.
+      ![Foundry Resource Role assignement](images/FoundryResourceIAM.png)
 
      e. Add *Foundry User* or/and *Cognitive Service Contributor* to the managed identity of your Search Service 
 
