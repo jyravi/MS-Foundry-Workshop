@@ -60,7 +60,7 @@ This is the first step for all workshop attendees. Complete the prerequisites an
   
 7. Assign Roles
    
-  a. Click ![Access control-IAM](AzureSerach-IAM.png)
+  a. Click Access Control-IAM ![Access control-IAM](AzureSerach-IAM.png)
   
   b. Click the *Role assignments* tab to view the role assignments at this scope.
   
