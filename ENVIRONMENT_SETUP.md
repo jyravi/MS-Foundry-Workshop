@@ -70,7 +70,11 @@ This is the first step for all workshop attendees. Complete the prerequisites an
   
   d. Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the user. 
   e. Also Add *Search Service Contributor, Search Index Data Contributor, and Search Index Data Reader* to the Foundry.
-  ![Search Index Data Contributor](Search Index Data Contributor.png)
+
+As an example, shown below are the steps to add "Search Index Data Contributor". Please repeat the same for adding other roles as well.
+  
+  ![Search Index Data Contributor](SearchIndexDataContributor.png)
+  
   
   ![Foundry Resource](selectFoundryresource.png)
 
