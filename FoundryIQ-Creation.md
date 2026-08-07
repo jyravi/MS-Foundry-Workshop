@@ -6,8 +6,11 @@
 2. AI search resource with all the roles assigned
 3. Agent created in Foundry
 4. Models deployed
-   a. LLM model (eg. gpt 5.4 mini)
-   b. embedding model (eg. text-embedding-small) *(preferred)*
+   
+   a. LLM model (eg. gpt-5.4-mini)
+   
+   b. embedding model (eg. text-embedding3-small) *(preferred)*
+   
 
 ### Associate Foundry IQ to the agent
 
