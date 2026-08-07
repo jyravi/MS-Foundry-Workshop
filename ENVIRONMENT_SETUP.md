@@ -100,9 +100,9 @@ As an example, shown below are the steps to add "Search Index Data Contributor".
 
       ![Foundry User](images/FoundryUser.png)
 
-      ![Select Search resource](AssignRoletoSearch.png)
+      ![Select Search resource](images/AssignRoletoSearch.png)
 
-      ![Review and Assign](reviewandassignsearch.png)
+      ![Review and Assign](images/reviewandassignsearch.png)
 
      
   
